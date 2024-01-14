@@ -27,15 +27,13 @@
 [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![GITHUB](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
 
 ### Other Knowledge:
-[![PYTHON](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![POSTEGRES](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![FIGMA](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
   
 ### Studying in this moment:
-[![JAVA](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![GIT](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
