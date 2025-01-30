@@ -22,6 +22,7 @@
 [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![REACT](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![TYPESCRIPT](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
 ### Tools:
 [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
@@ -30,11 +31,12 @@
 
 
 ### Other Knowledge:
-[![POSTEGRES](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MYSQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![FIGMA](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
   
 ### Studying in this moment:
-[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![REACT](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![TYPESCRIPT](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 [![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![GIT](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
