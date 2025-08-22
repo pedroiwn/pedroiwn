@@ -20,7 +20,7 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![TAILWINDCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![REACT](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![TYPESCRIPT](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
